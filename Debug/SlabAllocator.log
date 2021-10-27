@@ -1,0 +1,7 @@
+﻿  buddy.c
+  main.c
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina3\semestar 5\os2\projekat\SlabAllocator\SlabAllocator\main.c(24,20): warning C4018: '<': signed/unsigned mismatch
+  slab.c
+  test.c
+  Generating Code...
+  SlabAllocator.vcxproj -> C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina3\semestar 5\os2\projekat\SlabAllocator\SlabAllocator\Debug\SlabAllocator.exe
